@@ -26,14 +26,14 @@ Default keymaps set by LazyVim can be found [here](https://github.com/LazyVim/La
 | ---------- | ---- | ----------- |
 | <kbd>Ctrl-\\</kbd> | Insert, Normal, Visual | Toggle comment for the current line or selection. |
 | <kbd>Ctrl-Z</kbd> | Insert, Normal | Undo the last change. |
-| <kbd>Ctrl-Y</kbd> Insert, Normal | Redo the last undone change. |
+| <kbd>Ctrl-Y</kbd> | Insert, Normal | Redo the last undone change. |
 
 #### Moving Lines
 | Keybinding | Mode | Description |
 | ---------- | ---- | ----------- |
 | <kbd>Alt-Down</kbd> | Normal | Move the current line below the cursor. |
 | <kbd>Alt-Up</kbd> | Normal | Move the current line above the cursor. |
-| <kbd>Alt-Down</kbd> Insert | Move the current line down while staying in Insert mode. |
+| <kbd>Alt-Down</kbd> | Insert | Move the current line down while staying in Insert mode. |
 | <kbd>Alt-Up</kbd> | Insert | Move the current line up while staying in Insert mode. |
 | <kbd>Alt-Down</kbd> | Visual | Move selected lines down. |
 | <kbd>Alt-Up</kbd> | Visual | Move selected lines up. |
