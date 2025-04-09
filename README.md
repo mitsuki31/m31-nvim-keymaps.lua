@@ -2,6 +2,10 @@
 
 This is my customized Neovim keymaps.
 
+> [!IMPORTANT]  
+> This repository has been archived and moved to [mitsuki31/starter.nvim](https://github.com/mitsuki31/starter.nvim) repository.
+> Go and check it out, or maybe you wanna try my own customized Neovim starter pack.
+
 **Requirements:**
 - [Neovim](https://neovim.io) v0.10.4 (LuaJIT 2.1.1731601260)
 - [lazy.nvim](https://github.com/folke/lazy.nvim) v11.17.1
